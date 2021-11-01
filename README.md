@@ -2,15 +2,6 @@
 
 和の色アプリ
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Sample
+![Screenshot_20211101-134842](https://user-images.githubusercontent.com/49429291/139624993-aaa33b69-711e-41f2-8ca8-67ba07d990fb.jpg)
+j]
