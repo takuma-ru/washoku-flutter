@@ -1,4 +1,8 @@
-# washoku
+# <div style="text-align: center;">washoku</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49429291/171179944-a68d0245-5b02-422f-97f2-11d6cfc4b6cb.png"  width="128" height="128" alt="nuxt-firebase logo">
+</p>
 
 ## Description
 **現在開発中**<br>
